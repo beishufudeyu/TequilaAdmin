@@ -1,2 +1,2 @@
 # TequilaAdmin
-一个类似Django的后台管理库,不依赖于Django Admin
+仿造Django Admin的后台管理库,不依赖于Django Admin
